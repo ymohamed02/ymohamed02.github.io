@@ -1,14 +1,14 @@
 body {
-  background-color:  #33475b;
-  color: #ddd;
+  background-color:  #35475b;
+  color: #d6d6d6;
   font-family: Arial, Helvetica, san-serif;
   margin: 10% 20%
     
 }
 
 .exp-header {
+  text-align:center;
   Text-transform:uppercase;
-  border-top: 3px solid;
-  border-bottom: 3px solid;
-  background-color:
+  border-top: 3px solid rgb(0,0,0,0.5);
+  border-bottom: 3px solid rgb(0,0,0,0.5);
 }
