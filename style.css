@@ -1,6 +1,6 @@
 body {
-  background-color:  #35475b;
-  color: #d6d6d6;
+  background-color:#E0C9A6 rgb(224,201,166);
+  color: #d6d6d;
   font-family: Arial, Helvetica, san-serif;
   margin: 10% 20%
     
@@ -9,6 +9,9 @@ body {
 .exp-header {
   text-align:center;
   Text-transform:uppercase;
-  border-top: 3px solid rgb(0,0,0,0.5);
-  border-bottom: 3px solid rgb(0,0,0,0.5);
+  border-top: 3px solid rgb(0,0,0,1);
+  border-bottom: 3px solid rgb(0,0,0,1);
+}
+.staple{
+  font-style: Italic;
 }
